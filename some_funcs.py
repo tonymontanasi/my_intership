@@ -7,7 +7,7 @@ def subtract(a, b):
 
 
 def multiply(a, b):
-    return a * b
+    return a * b * a  # FAIL
 
 
 def divide(a, b):
